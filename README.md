@@ -12,3 +12,5 @@
   * [Multiplication Quiz](https://github.com/Tedawy/automate-the-boring-stuff-with-python/blob/main/Ch%208%20Input%20Validation/multiplicationQuiz.py)
   * [Sandwich Maker](https://github.com/Tedawy/automate-the-boring-stuff-with-python/blob/main/Ch%208%20Input%20Validation/sandwichMaker.py)
   
+* **Chapter 9 - Reading and Writing Files**
+  * [Generating Random Quiz Files](https://github.com/Tedawy/automate-the-boring-stuff-with-python/blob/main/Ch%209%20Reading%20and%20Writing%20Files/randomQuizGenerator.py)
